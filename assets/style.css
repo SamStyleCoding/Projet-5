@@ -129,10 +129,14 @@ header {
 #banner .arrow_left {
 	left: 10px;
 	cursor: pointer;
+	color: #ffffff;
+	font-size: 25px;
 }
 #banner .arrow_right {
 	right: 10px;
 	cursor: pointer;
+	color: #ffffff;
+	font-size: 25px;
 }
 /* Gestion des points du carrousel */
 .dots {
