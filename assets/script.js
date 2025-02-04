@@ -26,7 +26,7 @@ const prevBtn = document.querySelector(".arrow_left");
 const nextBtn = document.querySelector(".arrow_right");
 
 
-let = currentIndex = 0;
+let currentIndex = 0;
 
 
 function showSlide (index) {
